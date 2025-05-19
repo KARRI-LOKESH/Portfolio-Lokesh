@@ -12,8 +12,8 @@
         "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
     },
     {
-        "name": "Redux",
-        "icon": "https://img.icons8.com/color/48/000000/redux.png"
+        "name": "Django",
+        "icon": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fsearch%3Fq%3Ddjango&psig=AOvVaw3bK_d_2g--JrEBFuwHL8MF&ust=1747737624530000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOD5xpOsr40DFQAAAAAdAAAAABAE"
     },
     {
         "name": "TailwindCSS",
@@ -22,10 +22,6 @@
     {
         "name": "Bootstrap",
         "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
-    },
-    {
-        "name": "Sass",
-        "icon": "https://img.icons8.com/color/48/000000/sass.png"
     },
     {
         "name": "HTML5",
@@ -62,10 +58,6 @@
     {
         "name": "AWS",
         "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
-    },
-    {
-        "name": "Heroku",
-        "icon": "https://img.icons8.com/color/48/000000/heroku.png"
     },
     {
         "name": "DigitalOcean",

@@ -2,7 +2,7 @@
   {
     "name": "Ivallap-Social Media App",
     "desc": "Fully fledged Web app for different user interactions. Built using Python,Django,Html,CSS,JavaScript,PostgreSql,Cloudinary",
-    "image": "ivallap",
+    "image": "instagram-mern",
     "category": "Web application",
     "links": {
       "view": "https://ivallap.onrender.com/users/entry",
@@ -17,6 +17,16 @@
     "links": {
       "view": "https://clg-web.onrender.com/anni/home",
       "code": "https://github.com/KARRI-LOKESH/cld_website"
+    }
+  },
+  {
+    "name": "Coffeeshop",
+    "desc": "Coffee shop website for buy online with perfect price.",
+    "image": "coffeeshop",
+    "category": "android",
+    "links": {
+      "view": "https://coffee-shop-20wl.onrender.com",
+      "code": "https://github.com/KARRI-LOKESH/coffee-shop"
     }
   }
 ]

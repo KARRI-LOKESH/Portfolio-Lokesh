@@ -2,7 +2,7 @@
   {
     "name": "Ivallap-Social Media App",
     "desc": "Fully fledged Web app for different user interactions. Built using Python,Django,Html,CSS,JavaScript,PostgreSql,Cloudinary",
-    "image": "instagrammern",
+    "image": "ivallap",
     "category": "Web application",
     "links": {
       "view": "https://ivallap.onrender.com/users/entry",
